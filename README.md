@@ -1,2 +1,2 @@
 # demoOauth2
-springboot集成以spring security为基础的Oauth2的项目
+springboot集成以spring security为基础的Oauth2的密码模式项目
